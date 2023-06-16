@@ -8,3 +8,5 @@
 4. Verify the Installation
    -> npx cypress open
 
+**Test Case & Manual Test OrangeHRM**
+https://drive.google.com/file/d/1JCuM26fgZfcnv9ddBoGAGc2TfkVw2TPO/view?usp=sharing
